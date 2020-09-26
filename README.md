@@ -2,8 +2,6 @@
 This repo holds my solution to Task 2 of the Screening Tasks for the QOSF Mentorship Program's second cohort.
 
 Qiskit Version info
-import qiskit
-qiskit.__qiskit_version__
 {'qiskit-terra': '0.15.2',
  'qiskit-aer': '0.6.1',
  'qiskit-ignis': '0.4.0',
