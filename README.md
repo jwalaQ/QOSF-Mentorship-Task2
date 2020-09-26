@@ -1,5 +1,7 @@
 # QOSF-Mentorship-Task2
 This repo holds my solution to Task 2 of the Screening Tasks for the QOSF Mentorship Program's second cohort.
+If it doesn't open, here's the link to NBViewer:
+https://nbviewer.jupyter.org/github/Jwala-1908/QOSF-Mentorship-Task2/blob/master/Task2.ipynb
 
 Qiskit Version info
 {'qiskit-terra': '0.15.2',
