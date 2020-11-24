@@ -1,5 +1,5 @@
 # QOSF-Mentorship-Task2
-This repo holds my solution to Task 2 of the Screening Tasks for the QOSF Mentorship Program's second cohort.
+This repo holds my solution to Task 2 of the Screening Tasks for the Quantum Open Source Foundation Mentorship Program's second cohort.
 Please use this link to view it in NBViewer:
 https://nbviewer.jupyter.org/github/Jwala-1908/QOSF-Mentorship-Task2/blob/master/Task2.ipynb
 
